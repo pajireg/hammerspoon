@@ -1,4 +1,5 @@
 -- Vim 한영전환 불편함 해결 방법
+-- 한글 입력기에서 esc 키 누르면 영어로 
 local input_english = "com.apple.keylayout.ABC"
 local input_korean = "com.apple.inputmethod.Korean.2SetKorean"
 
